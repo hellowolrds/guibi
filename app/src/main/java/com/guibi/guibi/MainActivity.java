@@ -11,7 +11,7 @@ import com.jpeng.jptabbar.anno.NorIcons;
 import com.jpeng.jptabbar.anno.SeleIcons;
 import com.jpeng.jptabbar.anno.Titles;
 
-
+//项目初始化完成
 
 public class MainActivity extends BaseMvpActivity<MainPresenter> implements MainContract.View {
 
